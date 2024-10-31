@@ -29,4 +29,5 @@ for (int x = 0; x < edificio2.Length; x++) {
 }
 Console.WriteLine();
 Console.WriteLine();
+Console.WriteLine("Ajuste especial");
 Console.WriteLine();
